@@ -1,0 +1,7 @@
+#!/bin/sh
+
+cd /app
+mkdir build
+cd build
+cmake /app
+make
